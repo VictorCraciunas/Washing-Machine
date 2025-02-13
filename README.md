@@ -2,7 +2,7 @@
 
 ## Overview
 This project is a **digital system design** implementation of a **washing machine controller** using **Logisim Evolution**. The system supports both **manual mode** and **predefined automatic washing programs** and is built using finite state machines and digital circuits.
-![Washing Machine Diagram]([https://raw.githubusercontent.com/your-username/your-repo/main/images/washing_machine_diagram.png](https://github.com/VictorCraciunas/Washing-Machine/blob/main/proiect.png?raw=true))
+![Washing Machine Diagram](https://raw.githubusercontent.com/VictorCraciunas/Washing-Machine/refs/heads/main/proiect.png)
 
 ## Features
 - **Manual Mode:**
